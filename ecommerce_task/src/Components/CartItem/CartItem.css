@@ -1,0 +1,12 @@
+.CartItemStyles{
+    text-align: start;
+}
+.CartItemButtonStyle {
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    font-size: 30px;
+    border: 1px solid  #1D1F22 ;
+    color: #1D1F22;
+    font-weight: lighter;
+}
