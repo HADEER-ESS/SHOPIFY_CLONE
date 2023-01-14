@@ -17,7 +17,7 @@ and components are 100% created using class component
   
   <h3> About Project </h3>
   <div>
-    <h5> Techniques </h5>
+    <h5> Technology </h5>
     <ul>
       <li>Redux-Toolkit</li>
       <li>Persist</li>
